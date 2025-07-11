@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/JumanaHazim/test4/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/JumanaHazim/test4/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/JumanaHazim/test4/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/JumanaHazim/test4/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/JumanaHazim/test4/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/JumanaHazim/test4/tree/master/0412-fizz-buzz) |
 ## String
 |  |
