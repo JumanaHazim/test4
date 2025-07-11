@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JumanaHazim/test4/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/JumanaHazim/test4/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JumanaHazim/test4/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/JumanaHazim/test4/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/JumanaHazim/test4/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
